@@ -17,9 +17,9 @@ function DeleteButton({ postId, commentId, callback }) {
 
       if (callback) {
         callback();
-        //To refresh: temporary fix
-        window.location.reload(false);
       }
+      //To refresh: temporary fix
+      window.location.reload(false);
     },
     variables: {
       postId,
