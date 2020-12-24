@@ -54,6 +54,7 @@ export default function PostForm() {
               value={values.body}
               error={error ? true : false}
               onChange={onChange}
+              
             />
 
             <Button type="Submit" color="blue">

@@ -1,6 +1,9 @@
 body {
   /* background-color:#5db6ee; */
-  background-image: url(https://images.pexels.com/photos/267403/pexels-photo-267403.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500);
+  /* background-image: url(https://images.pexels.com/photos/267403/pexels-photo-267403.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500); */
+  /* background-image: url(https://images.pexels.com/photos/916337/pexels-photo-916337.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500); */
+  /* background-image: url(https://images.pexels.com/photos/4207791/pexels-photo-4207791.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500); */
+  background-image: url(https://images.unsplash.com/photo-1608803027106-22eea6127c7b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2251&q=80);
   background-repeat: no-repeat;
   background-size: cover;
 }
