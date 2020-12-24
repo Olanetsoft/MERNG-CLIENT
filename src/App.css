@@ -1,9 +1,12 @@
-body{
-  background-color:#5db6ee;
+body {
+  /* background-color:#5db6ee; */
+  background-image: url(https://images.pexels.com/photos/267403/pexels-photo-267403.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
-#root{
-  background-color:#5db6ee;
+#root {
+  /* background-color:#5db6ee; */
 }
 
 .page-title {
